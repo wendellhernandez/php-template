@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Macondo+Swash+Caps&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="assets/rock.png" type="image/x-icon">
-    <link rel="stylesheet" href="style.min.css">
+    <link rel="stylesheet" href="styles/style.min.css">
 </head>
 <body>
     <header>
@@ -19,9 +19,9 @@
     </header>
 
     <main>
-        
-    </main>
 
+    </main>
+    
     <footer>
         Project by: <a href="https://github.com/wendellhernandez">Wendell Hernandez</a>
         <br>
@@ -31,6 +31,6 @@
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script src="app.js"></script>
+    <script src="scripts/app.js"></script>
 </body>
 </html>
